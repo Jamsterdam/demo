@@ -12,3 +12,10 @@ def m3():
 
 
 m2()
+
+def m4():
+    pass
+
+def m5():
+    pass
+
