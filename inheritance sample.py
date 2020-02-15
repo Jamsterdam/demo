@@ -65,4 +65,4 @@ tkkm.message()
 
 print('---this is the end---')
 # at the end
-# 子class在继承父class的过程中，如果有两个以上父class，那它继承谁的属性？如果都继承，那开始的属性应该怎样初始化？
+# 子class在继承父class的过程中，如果有两个以上父class，那它继承谁的属性    ？如果都继承，那开始的属性应该怎样初始化？
